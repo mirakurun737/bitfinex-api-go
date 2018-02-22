@@ -52,6 +52,7 @@ type Movement struct {
 	Type        string
 	Amount      string
 	Description string
+	Address     string
 	Status      string
 	Timestamp   string
 }
